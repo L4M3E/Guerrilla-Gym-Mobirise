@@ -1,0 +1,28 @@
+h1,h2,h3,h4,h5{
+    font-family: Oswald !important;
+}
+
+p,li{
+    font-family:Roboto !important;
+}
+
+.item-content h3{
+    font-size: 2em;
+}
+
+.card-box h3{
+    font-size: 1.8em;
+}
+
+.mbr-section-head h2,
+p {
+    color: #f7f7f7;
+}
+
+.card-box p {
+    color: #232323;
+}
+
+.item-content p{
+    color:#232323;
+}
